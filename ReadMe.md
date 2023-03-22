@@ -88,7 +88,7 @@
   &nbsp;&nbsp;
   <a href="https://discord.gg/5S6BYjtr8m" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   &nbsp;&nbsp;
-  /* <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp.png"  width="40" />+1 213 985 0522</a>
-  &nbsp;&nbsp; */
+  <!-- <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp.png"  width="40" />+1 213 985 0522</a>
+  &nbsp;&nbsp; -->
   </div>
 </div>
