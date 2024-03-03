@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Full Stack Developer
+  Software Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -16,7 +16,7 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
+- 🔭 <b>Frontend</b> : Angular.js, React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
 - 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django / C / C++ / ASP.NET / C#
@@ -80,13 +80,13 @@
 
 ## <p align="center">😇 Contact Me 😇</p>
   <div align="center"> 
-   <a href="mailto:tec.captain0803@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+   <a href="mailto:tech.captain83@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/vDRQFTs2QPLh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+<!--   <a href="https://join.skype.com/vDRQFTs2QPLh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/techcaptain83" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  <a href="https://t.me/maker320467" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a> -->
   &nbsp;&nbsp;
-  <a href="https://discord.gg/5S6BYjtr8m" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+  <a href="https://discord.gg/y3FMFtyM" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   &nbsp;&nbsp;
   <!-- <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp.png"  width="40" />+1 213 985 0522</a>
   &nbsp;&nbsp; -->
