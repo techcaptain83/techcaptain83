@@ -21,11 +21,10 @@
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite, Shadcn, Radix Vue
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express / Nest, Python / Django / Flask, C / C++ / ASP.NET / C#
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, PHP, Python, Solidity, Rust, C,  C++, ASP.NET, C#
+- 💬 <b>Third Party</b> : Zoho, Clickup, Jira, Trello, Asana, Monday
+- 📫 <b>Languages</b> : JavaScript, TypeScript, PHP, Python, Solidity, Rust, C,  C++, C#
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=techcaptain&column=7&theme=onedark"/>
-</p>
+
 
 ## Languages & Tools
 
@@ -60,35 +59,20 @@
 <code><img height="45" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/pwa.png"></code>
 <code><img height="45" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/erp.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/crm.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
-<code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
-
-## Github Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=techcaptain&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=techcaptain&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="techcaptain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techcaptain&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
-</p>
-</details>
 
 ## <p align="center">😇 Contact Me 😇</p>
   <div align="center"> 
-   <a href="mailto:tech.captain83@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+   <a href="tech.captain83@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-<!--   <a href="https://join.skype.com/vDRQFTs2QPLh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-  &nbsp;&nbsp; -->
+  <a href="https://join.skype.com/vDRQFTs2QPLh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+  &nbsp;&nbsp;
   <a href="https://t.me/maker320467" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/y3FMFtyM" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+  <a href="https://discord.gg/y3FMFtyM" target="_blank" rel="noopener noreferrer"><img src=""  width="40" /></a>
   &nbsp;&nbsp;
-  <!-- <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp.png"  width="40" />+1 213 985 0522</a>
-  &nbsp;&nbsp; -->
+<a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp.png"  width="40" /></a>
+  &nbsp;&nbsp;
   </div>
 </div>
