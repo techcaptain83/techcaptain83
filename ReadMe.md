@@ -16,12 +16,12 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : Angular.js, React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
-- 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
-- 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django / C / C++ / ASP.NET / C#
+- 🔭 <b>Frontend</b> : Angular.js, React.js, Next.js, Vue.js, Nuxt.js
+- 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT, ICP, Sui
+- 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite, Shadcn, Radix Vue
+- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express / Nest, Python / Django / Flask, C / C++ / ASP.NET / C#
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+- 📫 <b>Languages</b> : JavaScript, TypeScript, PHP, Python, Solidity, Rust, C,  C++, ASP.NET, C#
 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=techcaptain&column=7&theme=onedark"/>
